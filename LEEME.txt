@@ -1,0 +1,6 @@
+Pequeño e intento de sitio creado para generar consultas online sobre nutrición.
+Hace mucho tenia pendiente este sitio por lo que tenia botado el "proyecto" asi que esta fue una buena excusa para 
+empezar a trabajarlo de nuevo.
+
+Atte.
+Sebastián Oyarzún 17.587.973-0
